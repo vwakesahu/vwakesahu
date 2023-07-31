@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [JobSet](https://github.com/TechieeGeeeks/JobSet)
+- 🔭 I recently worked on [JobSet](https://jobset.onrender.com/) 
 
 - 🌱 I’m currently learning **React.js, Tailwind, HTML, Flutter and C++**
 
