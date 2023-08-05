@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I am currently working on [E-commerce Web App]([https://jobset.onrender.com/](https://github.com/vwakesahu/e-commerce))
+- 🔭 I am currently working on [E-commerce Web App](https://jobset.onrender.com/](https://github.com/vwakesahu/e-commerce))
   
 - 🔭 I recently worked on [JobSet](https://jobset.onrender.com/) 
 
