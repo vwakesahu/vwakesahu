@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I am currently working on [Frames -by half engineers](https://frames-by-engineer.vercel.app/), [repository](https://github.com/FramesByEngineers/Frames-By-Engineers)
+- 🔭 I am currently working on [Frames -by half engineers](https://frames-by-engineer.vercel.app/), [repository](https://github.com/FramesByEngineers/frames-by-engineer)
   
 - 🔭 I recently worked on [JobSet](https://jobset.onrender.com/) 
 
