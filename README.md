@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React.js, Tailwind, HTML, Flutter and C++**
 
-- 👨‍💻 All of my projects are available at [https://vwake.netlify.app/](https://vwake.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.vwakesahu.tech](https://www.vwakesahu.tech/)
 
 - 💬 Ask me about **React.js, Tailwind**
 
